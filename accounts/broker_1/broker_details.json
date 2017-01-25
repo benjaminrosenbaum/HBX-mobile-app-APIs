@@ -252,7 +252,7 @@
         {
           "plan_year_begins": "2017-03-12",
           "open_enrollment_begins": "2017-01-09",
-          "open_enrollment_ends": "2017-02-21",
+          "open_enrollment_ends": "2017-02-27",
           "renewal_in_progress": true,
           "renewal_application_available": "2016-12-10",
           "renewal_application_due": "2017-03-12",
@@ -333,7 +333,7 @@
         {
           "plan_year_begins": "2017-03-12",
           "open_enrollment_begins": null,
-          "open_enrollment_ends": "2017-02-21",
+          "open_enrollment_ends": "2017-02-27",
           "renewal_in_progress": true,
           "renewal_application_available": "2016-12-10",
           "renewal_application_due": "2017-02-18",
@@ -428,7 +428,7 @@
         {
           "plan_year_begins": "2017-03-12",
           "open_enrollment_begins": null,
-          "open_enrollment_ends": "2017-02-21",
+          "open_enrollment_ends": "2017-02-27",
           "renewal_in_progress": true,
           "renewal_application_available": "2016-12-10",
           "renewal_application_due": "2017-03-12",
@@ -700,7 +700,7 @@
           "plan_year_begins": "2017-04-23",
           "open_enrollment_begins": "2017-02-08",
           "open_enrollment_ends": "2017-04-05",
-          "renewal_in_progress": false,
+          "renewal_in_progress": true,
           "renewal_application_available": "2017-02-01",
           "renewal_application_due": "2017-04-13",
           "state": "Active",

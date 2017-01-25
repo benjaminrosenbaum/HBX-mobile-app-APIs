@@ -252,7 +252,7 @@
         {
           "plan_year_begins": "@date.add_days 18",
           "open_enrollment_begins": "@date.add_days -44",
-          "open_enrollment_ends": "@date.add_days -1",
+          "open_enrollment_ends": "@date.add_days 5",
           "renewal_in_progress": true,
           "renewal_application_available": "@date.add_days -74",
           "renewal_application_due": "@date.add_days 18",
@@ -333,7 +333,7 @@
         {
           "plan_year_begins": "@date.add_days 18",
           "open_enrollment_begins": null,
-          "open_enrollment_ends": "@date.add_days -1",
+          "open_enrollment_ends": "@date.add_days 5",
           "renewal_in_progress": true,
           "renewal_application_available": "@date.add_days -74",
           "renewal_application_due": "@date.add_days -4",
@@ -428,7 +428,7 @@
         {
           "plan_year_begins": "@date.add_days 18",
           "open_enrollment_begins": null,
-          "open_enrollment_ends": "@date.add_days -1",
+          "open_enrollment_ends": "@date.add_days 5",
           "renewal_in_progress": true,
           "renewal_application_available": "@date.add_days -74",
           "renewal_application_due": "@date.add_days 18",
@@ -700,7 +700,7 @@
           "plan_year_begins": "@date.add_days 60",
           "open_enrollment_begins": "@date.add_days -14",
           "open_enrollment_ends": "@date.add_days 42",
-          "renewal_in_progress": false,
+          "renewal_in_progress": true,
           "renewal_application_available": "@date.add_days -21",
           "renewal_application_due": "@date.add_days 50",
           "state": "Active",
