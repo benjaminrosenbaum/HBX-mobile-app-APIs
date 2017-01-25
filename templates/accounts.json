@@ -1,10 +1,11 @@
 {
   "brokers": [
     "broker1",
-    "broker_empty"
+    "broker_empty",
+    "broker_er_roster_empty"
   ],
   "employers": [
-    "employer_1",
+    "employer_roster_empty",
     "employer_2"
   ],
   "password": "Beta123!"
