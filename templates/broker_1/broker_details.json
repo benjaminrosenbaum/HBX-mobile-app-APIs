@@ -36,8 +36,8 @@
         }
       ],
       "employees_total": 5,
-      "employer_details_url": "broker_1/employer_details_0.json",
-      "employee_roster_url": "broker_1/roster_0.json",
+      "employer_details_url": "employer_details_0.json",
+      "employee_roster_url": "roster_0.json",
       "contact_info": [
         {
           "first": "Bob",
@@ -76,8 +76,8 @@
         }
       ],
       "employees_total": 5,
-      "employer_details_url": "broker_1/employer_details_1.json",
-      "employee_roster_url": "broker_1/roster_1.json",
+      "employer_details_url": "employer_details_1.json",
+      "employee_roster_url": "roster_1.json",
       "contact_info": [
         {
           "first": "Jane",
@@ -143,7 +143,7 @@
         }
       ],
       "employees_total": 4,
-      "employer_details_url": "broker_1/employer_details_2.json",
+      "employer_details_url": "employer_details_2.json",
       "employee_roster_url": "broker_1/roster_2.json",
       "contact_info": [
         {
@@ -265,7 +265,7 @@
       ],
       "employees_total": 6,
       "employer_details_url": "broker_1/employer_details_4.json",
-      "employee_roster_url": "broker_1/roster_4.json",
+      "employee_roster_url": "roster_4.json",
       "contact_info": [
         {
           "first": "Yona",
@@ -345,8 +345,8 @@
         }
       ],
       "employees_total": 4,
-      "employer_details_url": "broker_1/employer_details_5.json",
-      "employee_roster_url": "broker_1/roster_5.json",
+      "employer_details_url": "employer_details_5.json",
+      "employee_roster_url": "roster_5.json",
       "contact_info": [
         {
           "first": "Heinrich",
@@ -440,8 +440,8 @@
         }
       ],
       "employees_total": 3,
-      "employer_details_url": "broker_1/employer_details_6.json",
-      "employee_roster_url": "broker_1/roster_6.json",
+      "employer_details_url": "employer_details_6.json",
+      "employee_roster_url": "roster_6.json",
       "contact_info": [
         {
           "first": "Claudette",
@@ -521,8 +521,8 @@
         }
       ],
       "employees_total": 6,
-      "employer_details_url": "broker_1/employer_details_7.json",
-      "employee_roster_url": "broker_1/roster_7.json",
+      "employer_details_url": "employer_details_7.json",
+      "employee_roster_url": "roster_7.json",
       "contact_info": [
         {
           "first": "Claudette",
@@ -589,8 +589,8 @@
         }
       ],
       "employees_total": 3,
-      "employer_details_url": "broker_1/employer_details_8.json",
-      "employee_roster_url": "broker_1/roster_8.json",
+      "employer_details_url": "employer_details_8.json",
+      "employee_roster_url": "roster_8.json",
       "contact_info": [
         {
           "first": "Maria Susanna",
@@ -643,8 +643,8 @@
         }
       ],
       "employees_total": 3,
-      "employer_details_url": "broker_1/employer_details_9.json",
-      "employee_roster_url": "broker_1/roster_9.json",
+      "employer_details_url": "employer_details_9.json",
+      "employee_roster_url": "roster_9.json",
       "contact_info": [
         {
           "first": "Portia",
@@ -711,8 +711,8 @@
         }
       ],
       "employees_total": 4,
-      "employer_details_url": "broker_1/employer_details_10.json",
-      "employee_roster_url": "broker_1/roster_10.json",
+      "employer_details_url": "employer_details_10.json",
+      "employee_roster_url": "roster_10.json",
       "contact_info": [
         {
           "first": "Joe",
