@@ -1,6 +1,6 @@
 {
   "brokers": [
-    "broker1",
+    "broker_1",
     "broker_empty",
     "broker_er_roster_empty"
   ],
