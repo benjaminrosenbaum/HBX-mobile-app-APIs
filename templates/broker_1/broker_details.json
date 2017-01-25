@@ -697,12 +697,12 @@
       "active_general_agency": null,
       "plan_years": [
         {
-          "plan_year_begins": "@date.add_days 138",
-          "open_enrollment_begins": null,
-          "open_enrollment_ends": "@date.add_days 119",
+          "plan_year_begins": "@date.add_days 60",
+          "open_enrollment_begins": "@date.add_days -14",
+          "open_enrollment_ends": "@date.add_days 42",
           "renewal_in_progress": false,
-          "renewal_application_available": "@date.add_days 46",
-          "renewal_application_due": "@date.add_days 116",
+          "renewal_application_available": "@date.add_days -21",
+          "renewal_application_due": "@date.add_days 50",
           "state": "Active",
           "minimum_participation_required": 2,
           "employees_enrolled": 1,
