@@ -1,16 +1,16 @@
 {
   "employer_name": "DC Cupcakes",
   "binder_payment_due": null,
-  "billing_report_date": "2017-02-22",
+  "billing_report_date": "2017-01-22",
   "active_general_agency": "Betadyne General Agency, Inc.",
   "plan_years": [
     {
-      "plan_year_begins": "2016-06-08",
+      "plan_year_begins": "2016-05-08",
       "open_enrollment_begins": null,
-      "open_enrollment_ends": "2016-05-22",
+      "open_enrollment_ends": "2016-04-21",
       "renewal_in_progress": false,
-      "renewal_application_available": "2016-03-11",
-      "renewal_application_due": "2016-05-19",
+      "renewal_application_available": "2016-02-09",
+      "renewal_application_due": "2016-04-18",
       "state": "Active",
       "minimum_participation_required": 4,
       "plan_offerings": [
@@ -127,12 +127,12 @@
       ]
     },
     {
-      "plan_year_begins": "2017-06-09",
+      "plan_year_begins": "2017-05-09",
       "open_enrollment_begins": null,
-      "open_enrollment_ends": "2017-05-22",
+      "open_enrollment_ends": "2017-04-21",
       "renewal_in_progress": false,
-      "renewal_application_available": "2017-03-12",
-      "renewal_application_due": "2017-06-09",
+      "renewal_application_available": "2017-02-09",
+      "renewal_application_due": "2017-05-09",
       "state": "Active",
       "minimum_participation_required": 4,
       "plan_offerings": [
